@@ -1,0 +1,17 @@
+{
+  "name": "pf2e-mobile-viewer",
+  "title": "PF2e Mobile Character Sheet Viewer",
+  "description": "Access character sheets, chat, and actor tabs from mobile devices with improved UI and configuration options.",
+  "version": "1.0.0",
+  "author": "HorseSnorkel",
+  "minimumCoreVersion": "13",
+  "compatibleCoreVersion": "13",
+  "scripts": [ "mobile-viewer.js" ],
+  "styles": [ "styles.css" ],
+  "esmodules": [],
+  "packs": [],
+  "languages": [],
+  "url": "https://github.com/HorseSnorkel/pf2e-mobile-viewer",
+  "manifest": "https://raw.githubusercontent.com/HorseSnorkel/pf2e-mobile-viewer/main/module.json",
+  "download": "https://github.com/HorseSnorkel/pf2e-mobile-viewer/archive/main.zip"
+}
