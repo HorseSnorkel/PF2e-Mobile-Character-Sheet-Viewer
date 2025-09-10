@@ -12,6 +12,6 @@
   "packs": [],
   "languages": [],
   "url": "https://github.com/HorseSnorkel/pf2e-mobile-viewer",
-  "manifest": "https://raw.githubusercontent.com/HorseSnorkel/pf2e-mobile-viewer/main/module.json",
+  "manifest": "https://raw.githubusercontent.com/HorseSnorkel/pf2e-mobile-viewer/master/module.json",
   "download": "https://github.com/HorseSnorkel/pf2e-mobile-viewer/archive/main.zip"
 }
